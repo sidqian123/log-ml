@@ -1,5 +1,5 @@
-model,accuracy,precision,recall,f1
-Random Forest,0.96875,0.0,0.0,0.0
-Logistic Regression,0.3072916666666667,0.0,0.0,0.0
-Support Vector Classifier,0.203125,0.0,0.0,0.0
-Gaussian Naive Bayes,0.15104166666666666,0.0,0.0,0.0
+method_option,model,accuracy,precision,recall,f1
+(h),Gaussian Naive Bayes,0.96875,0.0,0.0,0.0
+(c),Support Vector Classifier,0.890625,0.05263157894736842,0.25,0.08695652173913043
+(a),Logistic Regression,0.8645833333333334,0.041666666666666664,0.25,0.07142857142857142
+(f),Random Forest,0.8541666666666666,0.0,0.0,0.0
