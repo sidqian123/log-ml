@@ -1,0 +1,16 @@
+message_template,count
+generating core.<num>,1706751
+<num> double-hummer alignment exceptions,295764
+<num> floating point alignment exceptions,267725
+"ce sym <num>, at <hex>, mask <hex>",201206
+data tlb error interrupt,152734
+<num> microseconds spent in the rbs signal handler during <num> calls. <num> microseconds was the maximum time for a single instance of a correctable ddr.,135092
+"<num> total interrupts. <num> critical input interrupts. <num> microseconds total spent on critical input interrupts, <num> microseconds max time in a critical input interrupt.",135092
+instruction cache parity error corrected,105924
+"idoproxydb hit assert condition: assert expression=<num> source file=idotransportmgr.cpp source line=<num> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)",84168
+data storage interrupt,63493
+instruction address: <hex>,51227
+"ciod: received signal <num>, code=<num>, errno=<num>, address=<hex>",39457
+"<num> ddr errors(s) detected and corrected on rank <num>, symbol <num>, bit <num>",33939
+total of <num> ddr error(s) detected and corrected,28485
+"ciod: error reading message prefix on ciostream socket to <num>.<num>.<num>.<num>:<num>, link has been severed",26546
